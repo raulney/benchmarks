@@ -1,6 +1,6 @@
 Comparing some languages performance
 
-The same algorithm written in some languages do check their performance and compare each other
+The same algorithm written in some languages do check their performance and compare each other. The Linux tool Time is used to measure the data.
 
 Average results obtained until now
 
