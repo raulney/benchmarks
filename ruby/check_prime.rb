@@ -19,9 +19,9 @@ while (i < count) do
   end
   i += 1
   if flag == 0 then
-      num_primes += 1
+    num_primes += 1
   else
-      num_not_primes += 1
+    num_not_primes += 1
   end
 end
 total = num_primes + num_not_primes
